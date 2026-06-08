@@ -2,3 +2,4 @@
 *.pyc
 config/configuration.cfg
 nets/
+nicMSlesions-env/
