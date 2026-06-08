@@ -1,0 +1,10 @@
+#keras-nightly
+h5py ==  2.10.0
+MedPy==0.3.0
+scipy==1.4.1
+Keras==2.1.5
+nibabel==  2.1.0
+numpy==1.21.6
+Pillow==  9.0.1
+tensorflow==1.15
+#tensorflow==1.6.0???
