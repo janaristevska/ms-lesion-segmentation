@@ -67,20 +67,3 @@ The 3D CNN achieves high recall but relatively low precision:
 
 This indicates that the model is highly sensitive to lesion regions but tends to over-segment and produce false positives.
 
-## Limitations
-
-- Patch-based inference is computationally expensive
-- High false positive rate
-- Limited spatial context compared to full-volume architectures (e.g., U-Net)
-- Performance depends strongly on sampling strategy
-
-## Future Work
-
-- Replace patch-based CNN with fully convolutional architecture (e.g., 3D U-Net)
-- Incorporate longitudinal information for lesion evolution modeling
-- Improve false positive reduction strategies
-- Apply domain adaptation for multi-scanner robustness
-
-## Citation
-
-If you use this work, please cite:
